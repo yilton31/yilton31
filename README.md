@@ -30,3 +30,12 @@ Functionality:
 The user will be alble to navigate though all pages of the applicaion. Ontop of providing an area to enter new bills. A page will include fincial tips to help the user track their spending and finicial goals. Menus will be displayed on the main site to allow for easy navigation. A user login option is avialable so users can create an account that will save their bills so next time the application is accessed all bill will be displayed.
 
 Design: Main page will include menu to navigate to diffrent pages. The Next page will display finiacial tips. The main page will also have a sign in option that will allow past users easy access to their saved bills. A section of the appliciton will display options to save a new bill with amount and day due. Atoumatic reminders will be sent to mobile devices alerting users of when the bill date is coming up.
+
+Requirements:
+
+.A section with finincial tips.
+.A sign in and register page
+.A section for inserting bill amount and due date.
+.Automatic reminders sent to phone the day bill is due.
+
+
