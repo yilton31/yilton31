@@ -48,10 +48,16 @@ Change 1:
 Change 2:
 •	Previous users will be automatically signed in.
 Change 3:
-•	Users can choose to not receive reminder alerts for bills.
+•	Users can choose to not receive reminders alerts for bills.
 Change 4:
 •	A menu option will be displayed on first page to navigate the different pages of the application.
 Final Version: Omega3
+Change 1
+•	Menu option was removed for simple navigation
+Change 2
+•	Finacial tips section removed
+
+
 
 
 
